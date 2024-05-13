@@ -1,0 +1,1344 @@
+* {
+    margin: 0;
+    background-color: black1;
+    padding: 0;
+    position: relative;
+    /* background-color: yellowgreen; */
+    box-sizing: border-box;
+  }
+  .foooter_second_deteils_id {
+    /* border: 2px solid; */
+    display: flex;
+    float: inline-end;
+    margin-top: -350px;
+    font-family: sans-serif;
+    /* font-size: 18px; */
+    width: 567px;
+    justify-content: space-around;
+  }
+  .Quick{
+    max-width: 153px;
+  }
+  .offic:hover{
+    text-decoration: underline;
+  }
+  .offic{
+    ont-family: 'Source Sans Pro', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 0.875rem;
+      line-height: 1.1429;
+      color: #000;
+      text-decoration: none;
+  }
+  
+  .about{
+    max-width: 153px;
+  
+  }
+  .Patient{
+    max-width: 153px;
+  }
+  .footr_titel{
+  font-family: adobe-caslon-pro, serif;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 0.9375rem;
+  font-size: 1.125rem;
+  line-height: 1;
+  display: block;
+  color: #900;
+  }
+  .footer_ul{
+    display: flex;
+      /* border: 2px solid red; */
+      justify-content: space-around;
+      font-size: 29px;
+      max-width: 267px;
+      color: #8e4141;
+  
+  }
+  .section_one_logo{
+  /* border: 2px solid; */
+  max-width: 340px;
+  }
+  /* * { */
+  .last_action {
+    /* border: 2px solid red; */
+    margin-top: 847px;
+    padding: 50px;
+    /* background: darkorange; */
+  }
+  .red_room {
+    border: 2px solid red;
+    width: 423px;
+    float: inline-end;
+    padding: 127px;
+    color: white;
+    background: rgb(174 10 10 / 50%);
+    height: 708px;
+  }
+  .firstt_section{
+    /* border: 2px solid cornflowerblue; */
+    text-align: center;
+  
+  }
+  .sectionn_lorem {
+    margin-top: 788px;
+  }
+  .main_ending{
+    height: 710px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+    position: relative;
+    filter: blur(4px 5px);
+  }
+  .firstt_section button{
+    padding: 14px;
+    border-radius: 8px;
+    font-size: 15px;
+    font-family: math;
+  
+  }
+  .content_ending{
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 15px;
+  }
+  .main_device
+  {
+  font-size: 3.375rem;
+  line-height: 1;
+  letter-spacing: -0.05187rem;
+  }
+  .main_device h1{
+    font-weight: 100;
+    color: black;
+    font-size: 48px;
+  }
+  .center_photo img{
+  max-width: 100%;
+  margin-top: 15px;
+  border: 2px solid greenyellow;
+  }
+  .center_photo {
+    max-width: 100%;
+    /* padding: 15px; */
+  
+  }
+  .main_instagram_grides {
+    display: flex;
+    justify-content: space-around;
+  }
+  .main_instagram_grides{
+    display:flex;
+  }
+  .background_color {
+    background-color: #900;
+    color: white;
+    margin-top: 66px;
+    height: 1011px;
+  }
+  
+  .loop_content h1{
+    font-size: 3.375rem;
+      line-height: 1.1112;
+      letter-spacing: -0.0625rem;
+  
+  }
+  .main_text{
+    width: 100%;
+    position: relative;
+    /* border: 2px solid red; */
+    padding: 21px;
+  }
+  .text{
+    background: red;
+    max-width: 469px;
+    width: 100%;
+    float: inline-end;
+    color: white;
+    margin-top: -126px;
+    height: 317px;
+  }
+  .loop_content h1{
+  font-size: 3.375rem;
+  line-height: 1.1112;
+  letter-spacing: -0.0625rem;
+  max-width: 677px;
+  font-weight: 100;
+  }
+  .text h1{
+    width: 100%;
+    max-width: 100%;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    letter-spacing: -0.06938rem;
+  
+  }
+  .text p{
+    font-size: 1.125rem;
+    line-height: 1.4445;
+    max-width: 593px;
+    font-family: sans-serif;
+  }
+  .second_part {
+    /* border: 3px solid; */
+    margin-top: 267px;
+  }
+  .second_header {
+    /* background: beige; */
+    position: relative;
+  }
+  .img_drop {
+    overflow: hidden;
+    /* border: 2px solid red; */
+    float: inline-end;
+    position: relative;
+    max-width: 780px;
+    max-height: 376px;
+  }
+  .itom{
+    justify-content: space-around;
+    display: flex;
+  }
+  .img_drop img {
+    position: relative;
+    float: inline-end;
+    max-width: 100%;
+  }
+  .gride_op{
+    max-width: 909px;
+  
+  }
+  .first_value h1 {
+    max-width: 324px;
+    font-size: 30px;
+    font-weight: 100;
+    margin-top: -195px;
+    font-family: sans-serif;
+    padding-left: 36px;
+    max-width: 330px;
+    /* border: 2px solid red; */
+    /* height: 15px; */
+    line-height: 38px;
+  }
+  .first_class {
+    max-width: 324px;
+    font-size: 14px;
+    font-weight: 100;
+    margin-top: -195px;
+    font-family: sans-serif;
+    padding-left: 36px;
+    max-width: 349px;
+    /* border: 2px solid red; */
+    /* height: 15px; */
+    line-height: 28px;
+    /* border: 2px solid red; */
+    margin-top: -23px;
+  }
+  
+  
+  .TITLE {
+    margin-top: 183px;
+    color: black;
+    /* font-family: sans-serif; */
+    text-align: center;
+    max-width: 1136px;
+    line-height: 40px;
+    margin: 201px auto;
+    font-size: 24px;
+  }
+  .inner_svg {
+    max-width: 180px;
+    /* border: 2px solid; */
+  }
+  .center_butn{
+    max-width: 100%;
+    text-align: center;
+  }
+  .center_butn button{
+    font-size: 18px;
+    padding: 9px 19px 8px 12px;
+    border-radius: 13px;
+    background: aliceblue;
+    text-align: center;
+    max-width: 1000%;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+  
+  }
+  .gride_op {
+    max-width: 909px;
+    text-align: center;
+    margin: 0 auto;
+    border: 3px solid red;
+    justify-content: space-between;
+  }
+  .first_butn {
+    padding: 15px;
+    border-radius: 14px;
+    font-family: auto;
+    transform: skew(35deg 128deg);
+    margin-top: 10px;
+  }
+  .like_commen p {
+    font-size: 25px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    line-height: 51px;
+    font-family: auto;
+  }
+  .main_background {
+    /* border: 3px solid red; */
+    position: relative;
+    max-height: 100%;
+    height: 800px;
+    max-width: 100%;
+    background-image: url(https://i.pinimg.com/originals/cd/d7/82/cdd782091e2f26e45d76f21812df150d.jpg);
+    width: 100%;
+    background-attachment: fixed;
+    box-shadow: inset 41px 9px 166px 46px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .first_logo {
+    transition: all 0.9s ease-in;
+    padding: 25px;
+    /* border: 2px solid #d3d3a5; */
+    background-image: url(https://i.pinimg.com/originals/cd/d7/82/cdd7820….jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 6px 0px 24px 4px black;
+  }
+  .first_logo:hover {
+    border: inset 6px 0px 24px 4px black;
+  }
+  .inner_svg {
+    z-index: 2;
+    background: rgb(121, 41, 41, 0.2);
+    max-width: 200px;
+    /* border: 2px solid red; */
+    /* border-radius: 200px; */
+    /* border: 2px solid; */
+  }
+  
+  .main_ul_contante {
+    display: block;
+    /* float:; */
+    max-width: 83vw;
+    /* display: flex; */
+    /* justify-content: space-around; */
+  }
+  .main_ul_contante_ul {
+    display: flex;
+    z-index: 1;
+    position: relative;
+    max-width: 208vw;
+    margin: auto;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+    margin-left: 230px;
+    margin-top: -44px;
+  }
+  .main_ul_contante_ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+    position: relative;
+    text-transform: capitalize;
+  }
+  
+  /* hover effect */
+  .main_ul_contante_ul li .dot::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 20px;
+    color: aqua;
+    height: 2px;
+    width: 0;
+    background-color: aqua;
+    transition: all ease 0.35s;
+  }
+  .dot2::after {
+    position: absolute;
+    content: "";
+    left: 15px;
+    top: 30px;
+    color: aqua;
+    height: 2px;
+    width: 0%;
+    background-color: aqua;
+    /* transform: scale(1.5); */
+    transition: all ease-in-out 0.35s;
+  }
+  .dot2:hover:after {
+    width: 80%;
+  }
+  .main_ul_contante_ul li .dot:hover::after {
+    width: 100%;
+  }
+  .mainn_content_h1 {
+    position: relative;
+    margin-top: -359px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    background: rgba(50, 42, 0, 0.5);
+    line-height: 33px;
+  }
+  .like_comment h1 {
+    font-size: 55px;
+    font-weight: 100;
+    font-family: system-ui;
+    line-height: 75px;
+  }
+  .itom{
+    display: flex;
+    margin-top: 81px;
+  
+  }
+  /* dropdown section here line start */
+  /* ddp
+    dpdbmb
+    dcptd */
+  
+  .ddp {
+    position: absolute;
+    display: block;
+    /* color: aqua; */
+  }
+  .dpdbmb {
+    margin-bottom: 15px;
+    position: absolute;
+    display: none;
+    /* background-color: white; */
+    max-width: 105vw;
+    border-radius: 10%;
+    color: black;
+    /* box-shadow: 10px 10px 10px; */
+    z-index: 1;
+  }
+  .dpdbmb a {
+    /* display: inline-flex; */
+    color: white;
+    padding: 12px 18px;
+    display: block;
+    position: relative;
+    color: black;
+    text-decoration: none;
+  }
+  .dot2 {
+    color: black;
+    /* backgroun    d-color: aqua; */
+  }
+  .dpdbmb a:hover {
+    margin-top: 15px;
+    color: white;
+    width: 305px;
+    display: block;
+    transition: all ease 0.15s;
+    /* transform: scale(0.5); */
+    background-color: red;
+  }
+  .dpdbmb a:active {
+    /* display: block; */
+    color: cornflowerblue;
+    background-color: red;
+  }
+  
+  .ddp1:hover .dpdbmb {
+    display: block;
+  }
+  /* dropown completed */
+  /* gride dropdown details is here */
+  .main {
+    z-index: 5;
+    display: block;
+  }
+  .logo_last {
+    display: block;
+    float: inline-end;
+    margin-top: -29px;
+    margin-right: 24px;
+  }
+  .icon i {
+    font-size: 35px;
+  }
+  .main_textcointaner{
+    padding: 15px;
+  }
+  .main_section{
+    /* .main_section { */
+      max-width: 100%;
+      /* border: 2px solid black; */
+      padding: 45px;
+      margin-top: 173px;
+      height: 397px;
+  }
+  .loop_content{
+  /* border: 2px solid red; */
+  max-width: 100%;
+  }
+  .background_color{
+    background-color: #900;
+    color: white;
+    margin-top: 66px;
+  }
+  .h123{
+  font-size: 28px;
+  font-family: math;
+  }
+  .h123:hover{
+    text-decoration: underline;
+  }
+  /* .h1234:hover{
+    text-decoration: underline;
+  } */
+  .last_action{
+    /* border: 2px solid red; */
+  }
+  .loop_content p{
+    max-width: 341px;
+    font-size: 1.125rem;
+    line-height: 1.4445;
+    float: inline-end;
+    font-family: sans-serif;
+    margin-top: -106px;
+  }
+  .sectionn_lorem{
+    margin-top: 371px;
+  
+  
+  }
+  .img_bot{
+       /* border: 2px solid red; */
+       max-width: 315px;
+       max-height: 389px;
+   }
+   .explore{
+    color: white;
+    border: 2px solid white;
+    padding: 12px;
+      border-radius: 8px;
+      background: none;
+      font-size: 15px;
+  
+   }
+  
+  .first_ending{
+   border: 2px solid;
+   margin-top: 125px;
+   padding: 15px;
+  }
+   .explore_2{
+    color: white;
+    border: 2px solid white;
+    padding: 12px;
+      border-radius: 8px;
+      background: none;
+      font-size: 15px;
+  
+   }
+   .second_usc{
+    text-align: center;
+    /* border: 2px solid aqua; */
+   }
+   .paddiiing_type h1{
+    font-size: 3.375rem;
+    font-weight: 100;
+  
+   }
+   .red_room {
+    text-align: center;
+    /* border: 2px solid red; */
+    width: 423px;
+    float: inline-end;
+    padding: 46px;
+    color: white;
+    background: rgb(174 10 10 / 50%);
+    height: 708px;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+  .l1{
+    width: 100%;
+  
+  }
+  .gride_op {
+    /* .gride_op { */
+      max-width: 1207px;
+      text-align: center;
+      margin: 0px auto;
+      border: 3px solid transparent;
+      justify-content: space-between;
+  }
+  .firs_div_img img{
+    width: 100%;
+  }
+  .firs_div_img{
+    max-width: 621px;
+    /* border: 2px solid red; */
+    position: relative;
+    overflow: hidden;
+    /* height: 105px; */
+    margin-top: -109px;
+  }
+  .main_footer{
+    border: 2px solid rebeccapurple;
+    background:#FC0;
+    padding: 40px;
+  
+  }
+  .Quick {
+    max-width: 171px;
+  }
+  .Patient {
+    max-width: 168px;
+  }
+  .coppyright{
+  text-align: center;
+  margin-right: -300px;
+  font-size: 14px;
+  color: black;
+  }
+  .divbtn{
+  padding: 7px;
+      font-size: 18px;
+      letter-spacing: 3px;
+      float: inline-end;
+      border-radius: 8px;
+      /* border: none; */
+      /* border: 1px solid red; */
+  }
+  .first_conter h1{
+   
+    font-weight: 600;
+    font-size: 21px;
+    float: inline-end;
+    margin-top: -336px;
+    max-width: 262px;
+    /* border: 2px solid red; */
+  }
+  .mol{
+    display: flex;
+  }
+  .first_conter{
+    font-weight: 600;
+    font-size: 21px;
+    float: inline-end;
+    margin-top: -336px;
+    max-width: 428px;
+    /* border: 2px solid red; */
+    margin-right: 9px;
+  }
+  .img_float{
+  /* margin-left: 39px; */
+  /* border: 2px solid red; */
+  overflow: hidden;
+  width: 647px;
+  }
+  .span_lorem{
+    line-height: 15px;
+    font-size: 13px;
+    font-family: sans-serif;
+  }
+  .instragram_content{
+    /* border: 2px
+     solid blue; */
+    margin-top: 445px;
+    padding: 8px;
+    position: relative;
+  }
+  .around{
+    text-align: center;
+    font-size: 3rem;
+  }
+  
+  .img_float {
+    /* margin-left: 39px; */
+    /* border: 2px solid red; */
+    overflow: hidden;
+    width: 273px;
+  }
+  .instragram_content {
+    /* border: 2px solid blue; */
+    margin-top: 62px;
+    padding: 8px;
+    position: relative;
+  }
+  .logo_footer_svg{
+    width: 290px;
+  position: relative;
+  }
+  .logo_footer_svg svg{
+    position: relative;
+  }
+  .sectionn_lorem {
+    margin-top: -582px;
+    display: none;
+  }
+  
+  @media screen and (min-width: 320px) and (max-width: 770px) {
+    .instragram_content {
+      /* border: 2px solid blue; */
+      margin-top: 502px;
+      padding: 6px;
+      position: relative;
+  }
+  .coppyright {
+    text-align: center;
+    margin-right: -300px;
+    font-size: 14px;
+    color: black;
+    max-width: 360px;
+  }
+  .foooter_second_deteils_id {
+    /* border: 2px solid; */
+    display: flex;
+    float: inline-end;
+    margin-top: 117px;
+    font-family: sans-serif;
+    /* font-size: 18px; */
+    width: 567px;
+    justify-content: space-around;
+  }
+  
+  .paddiiing_type h1 {
+    font-size: 21px;
+    font-weight: 100;
+  }
+  .first_ending {
+    border: 2px solid;
+    margin-top:0px;
+    padding: 0px;
+  }
+  .red_room {
+    /* border: 2px solid white; */
+    width: 327px;
+    /* float: inline-end; */
+    padding: 3px;
+    color: white;
+    background: rgb(174 10 10 / 50%);
+    height: 203px;
+    margin: -18px auto;
+    margin-right: -15px;
+  }
+    .main_img_section {
+      margin: 0 auto;
+      /* margin-left: 39px; */
+      /* border: 2px solid red; */
+      overflow: hidden;
+      width: 283px;
+      /* padding: 8px; */
+  }
+  .img_float {
+       /* margin-left: 39px; */
+      /* border: 2px solid red; */
+      overflow: hidden;
+      /* width: 647px; */
+      /* padding: 8px; */
+      margin: 0 auto;
+  }
+  .mol {
+    margin-top: 351px;
+    border: 2px solid red;
+    max-width: 314px;
+    /* margin: 0 auto; */
+    /* margin-left: 96px; */
+    flex-direction: column;
+    overflow: hidden;
+    padding: 5px;
+    margin-right: -36px;
+  }
+    .divbtn {
+      padding: 5px;
+      font-size: 18px;
+      letter-spacing: 3px;
+      float: inline-end;
+      border-radius: 8px;
+      /* border: none; */
+      border: 1px solid red;
+      display: none;
+  }
+    .main_device h1 {
+      text-align: center;
+      font-weight: 100;
+      color: black;
+      font-size: 48px;
+      margin-top: 1496px;
+      border-top: 2px solid red;
+      padding-top: 18px;
+  }
+    .background_color{
+      background-color: transparent;
+      color: black;
+    }
+    .itom {
+      display: flex;
+      /* margin-top: 81px; */
+      flex-direction: column;
+      max-width: 326px;
+  }
+    .loop_content h1 {
+      font-size: 2.375rem;
+      line-height: 1.1112;
+      letter-spacing: -0.0625rem;
+      max-width: 677px;
+      font-weight: 100;
+      margin-bottom: 151px;
+      margin-left: -25px;
+      margin-top: 41px;
+  }
+  .img_bot{
+  margin: 0 auto;
+      max-width: 305px;
+  }
+  
+  .loop_content p{
+  max-width: 341px;
+  font-size: 1.125rem;
+  line-height: 1.4445;
+  float: inline-end;
+  font-family: sans-serif;
+  margin-top: -136px;
+  margin-left: -29px;
+  }
+    .text {
+      background: red;
+      max-width: 469px;
+      width: 100%;
+      float: inline-end;
+      color: white;
+      margin-top: -75px;
+      height: 341px;
+  }
+  .main_textcointaner {
+    padding: 23px;
+  }
+    .text h1 {
+      width: 100%;
+      max-width: 100%;
+      font-size: 1.9rem;
+      line-height: 1.2;
+      letter-spacing: -0.06938rem;
+      font-weight: 100;
+  }
+    .center_photo {
+      max-width: 100%;
+      padding: 15px;
+    
+    }
+    .center_butn button{ 
+    font-size: 18px;
+      padding: 9px 19px 8px 12px;
+      border-radius: 13px;
+      background: aliceblue;
+      text-align: center;
+      max-width: 1000%;
+      margin: 19px auto;
+      border: 1px solid red;
+  }
+    .first_value h1 {
+      max-width: 754px;
+      font-size: 22px;
+      font-weight: 100;
+      margin-top: -195px;
+      font-family: sans-serif;
+      padding-left: 28px;
+      max-width: 330px;
+      /* border: 2px solid red; */
+      /* height: 15px; */
+      line-height: 38px;
+    }
+      TITLE {
+        margin-top: 183px;
+        color: black;
+        /* font-family: sans-serif; */
+        text-align: center;
+        max-width: 1136px;
+        line-height: 40px;
+        margin: 134px auto;
+        font-size: 24px;
+    }
+    .like_comment p {
+      max-width: 866px;
+      line-height: 24px;
+  }
+      .inner_svg svg {
+        enable-background: new 0 0 178 58;
+        width: 225px;
+        max-width: 117px;
+      }
+      .like_comment h1 {
+        font-size: 44px;
+        font-weight: 100;
+        font-family: system-ui;
+        line-height: 55px;
+      }
+      .main_background_frantent {
+        background-attachment: red;
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+      }
+      .first_logo {
+        border: none;
+        background: none;
+        box-shadow: none;
+      }
+  
+      .navbar {
+        display: none;
+      }
+      .main_background {
+        background-position: center;
+        /* border: 3px solid red; */
+        position: relative;
+        max-height: 100%;
+        height: 555px;
+        max-width: 100%;
+        background-image: url(https://i.pinimg.com/originals/b8/c5/a4/b8c5a43e99077f7adb03c5926443e37b.jpg);
+        width: 100%;
+        /* background-attachment: fixed; */
+        box-shadow: inset 41px 9px 166px 46px;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+      .icon i {
+        font-size: 35px;
+        margin-top: -103px;
+        max-width: 109px;
+        margin-right: -28px;
+      }
+      .like_commen p {
+        font-size: 18px;
+        font-weight: 100;
+        letter-spacing: 2px;
+        line-height: 28px;
+        font-family: auto;
+      }
+      .around {
+        text-align: center;
+        font-size: 2rem;
+    }
+    .first_conter {
+      font-weight: 600;
+      font-size: 21px;
+      float: inline-end;
+      margin-top: -336px;
+      max-width: 428px;
+      /* border: 2px solid red; */
+      margin-right: 0px;
+  }
+  .content_ending {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 26px;
+    background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+    background-position: center;
+    min-height: 239px;
+  }
+  .main_ending {
+    background-image: none;
+    margin-bottom: -508px;
+  }
+  .first_log{
+    text-align: center;
+  }
+  .footer_ul{
+    display: flex;
+    /* border: 2px solid red; */
+    justify-content: space-around;
+    font-size: 29px;
+    color: #8e4141;
+  
+  
+  }
+  .logo_footer_svg {
+    width: 226px;
+    position: relative;
+  }
+  .main_footer {
+    border: 2px solid rebeccapurple;
+    background: rgb(255, 204, 0);
+    padding: 40px;
+    height: 1277px;
+  }
+  
+  .foooter_second_deteils_id{
+    flex-direction: column;
+    max-width: 100%;
+    margin-top: 52px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+    }
+  
+    @media screen and (min-width: 800px) and (max-width: 900px) {
+      .instragram_content {
+        /* border: 2px solid blue; */
+        margin-top: 62px;
+        padding: 8px;
+        position: relative;
+    }
+      .navbar {
+        display: none;
+      }
+    }
+  @media screen and (min-width:375px) and (max-width:585px) {
+  
+    .mol {
+      margin-top: 351px;
+      border: 2px solid red;
+      max-width: 314px;
+      /* margin: 0 auto; */
+      /* margin-left: 96px; */
+      flex-direction: column;
+      overflow: hidden;
+      padding: 5px;
+      margin-right: -4px;
+  }
+  
+  .red_room {
+    /* border: 2px solid white; */
+    width: 371px;
+    /* float: inline-end; */
+    padding: 3px;
+    color: white;
+    background: rgb(174 10 10 / 50%);
+    height: 203px;
+    margin: -10px auto;
+    margin-right: -13px;
+  }
+  }
+  
+  @media only screen and (max-width: 375px) {
+   
+        .red_room {
+            /* border: 2px solid white; */
+            width: 371px;
+            /* float: inline-end; */
+            padding: 3px;
+            color: white;
+            background: rgb(174 10 10 / 50%);
+            height: 203px;
+            margin: 0px auto;
+            margin-right: 16px;
+        }
+        }
+    @media screen and (min-width: 768px) {
+      .gride_op {
+        max-width: 1207px;
+        text-align: center;
+        margin: 0px auto;
+        border: 3px solid transparent;
+        justify-content: space-between;
+        margin: 0 auto;
+        margin-left: 198px;
+    }
+      .img_float {
+        /* margin-left: 39px; */
+        /* border: 2px solid red; */
+        overflow: hidden;
+        width: 647px;
+        /* padding: 8px; */
+        margin: 0 auto;
+    }
+    .imgcenter{
+      width: 531px;
+    
+    }
+      .main_img_section {
+        margin: 0 auto;
+        /* margin-left: 39px; */
+        /* border: 2px solid red; */
+        overflow: hidden;
+        width: 773px;
+        /* padding: 8px; */
+    }
+    .mol {
+      margin-top: 351px;
+      /* border: 2px solid red; */
+      max-width: 683px;
+      /* margin: 0 auto; */
+      margin-left: -218px;
+      /* flex-direction: column; */
+      overflow: hidden;
+      /* padding: 5px; */
+      /* margin-right: -55px; */
+  }
+  .main_footer {
+    border: 2px solid rebeccapurple;
+    background: rgb(255, 204, 0);
+    padding: 40px;
+    height: 451px;
+  }
+  
+      .section_one_logo {
+        /* border: 2px solid; */
+        max-width: 329px;
+    }
+    
+      .loop_content h1 {
+        font-size: 2.375rem;
+        line-height: 1.1112;
+        letter-spacing: -0.0625rem;
+        max-width: 584px;
+        font-weight: 100;
+        margin-bottom: 169px;
+        margin-left: 67px;
+        margin-top: 75px;
+        text-align: center;
+        text-decoration: underline;
+    }
+    .loop_content p {
+      max-width: 575px;
+      font-size: 1.125rem;
+      line-height: 2.4445;
+      float: inline-end;
+      font-family: sans-serif;
+      margin-top: -133px;
+      margin-left: -29px;
+  }
+      .red_room {
+        margin: 0 auto;
+        max-width: 100%;
+        min-height: 205px;
+    }
+    .foooter_second_deteils_id {
+      max-width: 117%;
+      margin-top: -339px;
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      flex-direction: row-reverse;
+      margin-right: -76px;
+  }
+  .contant_details{
+    margin-inline-end: 120px;
+  
+  }
+    }
+    @media screen and (min-width: 425px) {
+     
+      .logo_footer_svg {
+        width: 333px;
+        margin-left: 23px;
+        position: relative;
+    }
+      .red_room {
+        min-height: 205px;
+    }
+    .content_ending {
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      /* border: 2px solid red; */
+      padding: 48px;
+      background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+      background-position: center;
+      min-height: 337px;
+  }
+  .main_ending {
+    height: 740px;
+    width: 100%;
+    background-size: cover;
+    /* background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg); */
+    position: relative;
+    filter: blur(4px 5px);
+    padding: 13px;
+  }
+  
+    }
+    @media screen and (min-width: 320px) {
+      
+      .red_room {
+        /* border: 2px solid white; */
+        width: 319px;
+        /* float: inline-end; */
+        padding: -2px;
+        color: white;
+        background: rgb(174 10 10 / 50%);
+        height: 196px;
+        margin: 0px auto;
+        /* margin-right: -12px; */
+    }
+    .content_ending {
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      /* border: 2px solid red; */
+      padding: 2px;
+      background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+      background-position: center;
+      min-height: 194px;
+  }
+  }
+  @media screen and (min-width: 375px) {
+    .main_footer{
+  
+    }
+    .logo_footer_svg {
+      width: 280px;
+      position: relative;
+  }
+    .red_room {
+      /* border: 2px solid white; */
+      width: 319px;
+      /* float: inline-end; */
+      padding: -2px;
+      color: white;
+      background: rgb(174 10 10 / 50%);
+      height: 196px;
+      margin: 0px auto;
+      /* margin-right: -12px; */
+  }
+  .content_ending {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /* border: 2px solid red; */
+    padding: 25px;
+    background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+    background-position: center;
+    min-height: 194px;
+  }
+  
+  }
+  @media screen and (min-width:1024px) {
+    .main_ul_contante {
+      margin-left: 49px;
+      display: block;
+      max-width: 83vw;
+      /* display: flex; */
+      /* justify-content: space-around; */
+  }
+  .main_ul_contante_ul {
+    display: flex;
+    z-index: 1;
+    position: relative;
+    max-width: 194vw;
+    margin: auto;
+    justify-content: space-evenly;
+    font-family: sans-serif;
+    margin-left: 163px;
+    margin-top: -44px;
+  }
+    .loop_content p {
+      max-width: 886px;
+      font-size: 1.125rem;
+      line-height: 2.4445;
+      float: inline-end;
+      font-family: sans-serif;
+      margin-top: -133px;
+      margin-left: -29px;
+  }
+  .gride_op {
+    max-width: 1207px;
+    text-align: center;
+    margin: 236px auto;
+    border: 3px solid transparent;
+    justify-content: space-between;
+  }
+    .main_img_section {
+      margin: -20px auto;
+      /* margin-left: 39px; */
+      /* border: 2px solid red; */
+      overflow: hidden;
+      width: 654px;
+      /* padding: 8px; */
+      height: 187px;
+  }
+  .loop_content h1 {
+    font-size: 2.375rem;
+    line-height: 1.1112;
+    letter-spacing: -0.0625rem;
+    max-width: 419px;
+    font-weight: 100;
+    margin-bottom: 169px;
+    margin-left: 200px;
+    margin-top: -23px;
+    text-align: center;
+    text-decoration: underline;
+  }
+    .main_center{
+      margin-top: 87px;
+    }
+    .first_conter {
+      font-weight: 600;
+      font-size: 21px;
+      float: inline-end;
+      margin-top: -660px;
+      max-width: 428px;
+      /* border: 2px solid red; */
+      margin-right: 9px;
+  }
+  .mol {
+    display: flex;
+    flex-direction: column;
+    width: 284px;
+    margin-top: 306px;
+    min-height: 530px;
+  }
+    .content_ending {
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+      /* border: 2px solid red; */
+      padding: 2px;
+      background-image: url(https://www.usc.edu/wp-content/uploads/2023/03/32876799067_9ffea6f16d_3k-1280x720.jpg);
+      background-position: center;
+      min-height: 194px;
+  }
+  .foooter_second_deteils_id {
+    max-width: 170%;
+    margin-top: -339px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    /* flex-direction: row-reverse; */
+    margin-right: 22px;
+  }
+  .red_room {
+    /* border: 2px solid white; */
+    width: 319px;
+    /* float: inline-end; */
+    padding: -2px;
+    color: white;
+    background: rgb(174 10 10 / 50%);
+    height: 740px;
+    margin: -12px auto;
+    /* margin-right: -12px; */
+  }
+  }
+   @media screen and (min-width:1440px) {
+    .firs_div_img {
+      max-width: 918px;
+      /* border: 2px solid red; */
+      position: relative;
+      overflow: hidden;
+      /* height: 105px; */
+      margin-top: -109px;
+  }
+  .mol {
+    display: flex;
+    flex-direction: column;
+    width: 343px;
+    margin-top: 165px;
+    min-height: 530px;
+  }
+  .img_float {
+    /* margin-left: 39px; */
+    /* border: 2px solid red; */
+    overflow: hidden;
+    width: 803px;
+  }
+   }
