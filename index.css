@@ -6,6 +6,37 @@
     /* background-color: yellowgreen; */
     box-sizing: border-box;
   }
+
+  /* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* box-shadow: inset 0 0 5px grey;  */
+  border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  /* background: #462c2c;  */
+  border-radius: 15px;
+  background-size: cover;
+  background-image: url(https://i.pinimg.com/originals/b8/c5/a4/b8c5a43e99077f7adb03c5926443e37b.jpg);
+  height: 15px;
+  /* width: 110%; */
+  /* border-radius: 10px; */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  /* background:blue ;  */
+  background-size: cover;
+  border-radius: 5%;
+  /* background-image: url(https://images.unsplash.com/photo-1576502200916-3808e07386a5?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D); */
+  /* border: 2px solid dotted black; */
+}
   .foooter_second_deteils_id {
     /* border: 2px solid; */
     display: flex;
