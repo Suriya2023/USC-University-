@@ -54,7 +54,7 @@
     text-decoration: underline;
   }
   .offic{
-    ont-family: 'Source Sans Pro', sans-serif;
+    /* ont-family: 'Source Sans Pro', sans-serif; */
       font-style: normal;
       font-weight: 700;
       font-size: 0.875rem;
@@ -530,9 +530,7 @@
   /* .h1234:hover{
     text-decoration: underline;
   } */
-  .last_action{
-    /* border: 2px solid red; */
-  }
+  
   .loop_content p{
     max-width: 341px;
     font-size: 1.125rem;
@@ -1214,9 +1212,7 @@
   }
   }
   @media screen and (min-width: 375px) {
-    .main_footer{
-  
-    }
+
     .logo_footer_svg {
       width: 280px;
       position: relative;
